@@ -59,7 +59,7 @@ class _DormCardPageState extends State<DormCardPage> {
                     topRight: Radius.circular(12),
                   ),
                   child: Image.asset(
-                    'assets/obshaga.jpg',
+                    '../assets/obshaga.jpg',
                     height: 200,
                     width: double.infinity,
                     fit: BoxFit.cover,
